@@ -1,0 +1,1 @@
+在类中获取.properties配置文件里面的值# acquireFileValue
