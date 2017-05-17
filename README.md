@@ -1,1 +1,1 @@
-在类中获取.properties配置文件里面的值，从Environment中检索属性
+在类中获取.properties配置文件里面的值，结合@PropertySource从Environment中检索属性

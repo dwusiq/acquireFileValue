@@ -20,7 +20,7 @@ public class AcquireFileValueTest {
 
     @Test
     public void doTest(){
-        ds.dogDo();
+      ds.dogDo();
     }
 
 }
